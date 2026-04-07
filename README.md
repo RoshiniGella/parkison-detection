@@ -1,1 +1,1 @@
-# parkison-detection
+# parkinson-detection
