@@ -1,1 +1,1 @@
-# parkison-detection
+# parkisons-detection
